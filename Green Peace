@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Authority Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f6f8;
+        }
+        header {
+            background-color: #004aad;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #03396c;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            background-color: white;
+            margin: 15px;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #004aad;
+            color: white;
+        }
+    </style>
+</head>
+<body><header>
+    <h1>Green Valley Public School</h1>
+    <p>Official Information Portal</p>
+</header><nav>
+    <a href="#about">About</a>
+    <a href="#authority">Authority</a>
+    <a href="#notices">Notices</a>
+    <a href="#contact">Contact</a>
+</nav><section id="about">
+    <h2>About Our School</h2>
+    <p>
+        Green Valley Public School is committed to quality education,
+        discipline, and student development.
+    </p>
+</section><section id="authority">
+    <h2>School Authority</h2>
+    <ul>
+        <li><strong>Principal:</strong> Mr. A. Sharma</li>
+        <li><strong>Vice Principal:</strong> Ms. R. Khan</li>
+        <li><strong>Head Clerk:</strong> Mr. S. Verma</li>
+    </ul>
+</section><section id="notices">
+    <h2>Important Notices</h2>
+    <ul>
+        <li>📢 School will remain closed on Sunday.</li>
+        <li>📢 Annual exams start from 10 March.</li>
+        <li>📢 Parents meeting on Friday.</li>
+    </ul>
+</section><section id="contact">
+    <h2>Contact Information</h2>
+    <p><strong>Address:</strong> Main Road, City</p>
+    <p><strong>Phone:</strong> +91 98765 43210</p>
+    <p><strong>Email:</strong> schooloffice@gmail.com</p>
+</section><footer>
+    <p>© 2026 Green Valley Public School</p>
+</footer></body>
+</html>
